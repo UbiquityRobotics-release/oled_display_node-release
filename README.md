@@ -1,3 +1,26 @@
+## oled_display_node (noetic) - 1.1.1-1
+
+The packages in the `oled_display_node` repository were released into the `noetic` distro by running `/usr/bin/bloom-release oled_display_node --rosdistro noetic` on `Fri, 25 Feb 2022 13:14:53 -0000`
+
+The `oled_display_node` package was released.
+
+Version of package(s) in repository `oled_display_node`:
+
+- upstream repository: https://github.com/UbiquityRobotics/oled_display_node.git
+- release repository: https://github.com/UbiquityRobotics-release/oled_display_node-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.1.0-1`
+- new version: `1.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## oled_display_node (noetic) - 1.1.0-1
 
 The packages in the `oled_display_node` repository were released into the `noetic` distro by running `/usr/bin/bloom-release oled_display_node --rosdistro noetic` on `Thu, 24 Feb 2022 15:49:46 -0000`
